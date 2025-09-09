@@ -1,2 +1,2 @@
-# Entregables_Nuclio_teste
-Todos los entregables a lo largo del master
+# Entregables_Nuclio
+Entregables Dual Master Data & AI
